@@ -1,0 +1,24 @@
+{
+  "name": "noderestexpressproject",
+  "version": "1.0.0",
+  "description": "Project is demostration of building REST services on Node.js using Express Framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulshivsharan/NodeRESTExpressExample02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulshivsharan/NodeRESTExpressExample02/issues"
+  },
+  "homepage": "https://github.com/rahulshivsharan/NodeRESTExpressExample02#readme",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
