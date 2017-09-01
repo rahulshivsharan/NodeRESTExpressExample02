@@ -10,7 +10,7 @@ function App(){
 
 	// private variables
 	var headerObject = {
-		"Cookie" : "JSESSIONID=10u5jo5sezvjr1frb2ocrjf234"
+		"Cookie" : "JSESSIONID=el8bhj86874f125axw2sur147"
 	};
 	var END_POINT = "http://localhost:8082"; // endpoint where dhis is deployed
 	var SERVER_PORT = 8188;

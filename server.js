@@ -3,9 +3,8 @@ var app = application.getApp();
 
 var organisationUnitLevels = require("./organisationUnitLevels.js");
 
+var serverFn = serverFn;
 var server = app.listen(application.getPort(),serverFn);
-
-organisationUnitLevels.init();
 
 function serverFn(){
 	var host = server.address().address;
